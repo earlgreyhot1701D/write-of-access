@@ -1,0 +1,15 @@
+[Simulated OCR Output for sample_form_1_pg1_processed.txt]
+
+Full Name: Jordan Sampleton
+Email: jordan.sampleton@example.com
+Phone: (805) 555-2389
+Address: 456 Court Street, Santa Vista, CA 93101
+
+☑ I am requesting copies for personal reference.
+☐ I am an attorney representing a client.
+☐ I am requesting certified copies.
+
+Signature: Jordan S.
+Date: 09/10/2025
+
+Notes: Please email me the PDF copies if possible.
