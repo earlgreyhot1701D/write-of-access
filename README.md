@@ -110,3 +110,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🙋‍♀️ About This Project
 
 This is a civic-tech prototype by a public servant exploring real-world AI integration in courts. No sensitive data is used. Sample forms are public, and outputs are simulated.
+
+## 🤝 Acknowledgements
+
+This project was prototyped using OpenAI’s ChatGPT, which served as the sixth person off the bench — helping with Python scripting, AWS Textract integration, architecture planning, and documentation support. All judgment calls, design decisions, and final outputs were authored and validated by the project owner.
