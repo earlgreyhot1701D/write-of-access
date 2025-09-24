@@ -113,4 +113,4 @@ This is a civic-tech prototype by a public servant exploring real-world AI integ
 
 ## 🤝 Acknowledgements
 
-This project was prototyped using OpenAI’s ChatGPT, which served as the sixth person off the bench — helping with Python scripting, AWS Textract integration, architecture planning, and documentation support. All judgment calls, design decisions, and final outputs were authored and validated by the project owner.
+This project was prototyped using OpenAI’s ChatGPT, which served as the sixth person off the bench — helping with Python scripting, AWS Textract integration, architecture planning, and documentation support. All judgment calls, design decisions, and final outputs were authored and validated by me.
